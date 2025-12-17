@@ -19,6 +19,8 @@ A arquitetura do projeto é baseada no cenário 1 sendo composta por três compo
 3. API (back-end)
    Construída com Python (flask, openapi e sqlalchemy) e SQLIte
 
+![arquitetura entendedor](arquitetura-entendedor.png)
+
 ## 🛠️ Instalação
 
 1. Clone o repositório:<br>
