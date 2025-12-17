@@ -10,7 +10,7 @@ from model.record import Record
 from model.event import Event
 from model.user import User
 
-db_path = "database/"
+db_path = "data/"
 
 # verifica se o diretorio não existe
 if not os.path.exists(db_path):
