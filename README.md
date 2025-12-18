@@ -36,7 +36,7 @@ A arquitetura do projeto é baseada no cenário 1 sendo composta por três compo
 
     `docker volume create entendedor-volume`
 
-5. Navegue até o diretório raiz do entendedor-back-end que contém o Dockerfile e **execute como administrador** o seguinte comando para construir a imagem Docker:
+5. Navegue até o diretório raiz do entendedor-api que contém o Dockerfile e **execute como administrador** o seguinte comando para construir a imagem Docker:
 
     `docker build -t entendedor-api .`
 
